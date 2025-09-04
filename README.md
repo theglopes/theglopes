@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2018<br>📚 I'm currently learning React, Node.js, AWS and others<br>🎯 Goals: Become a Full Stack / Software Engineer<br>🎲 Fun fact: I once fixed a problem by accidentally breaking the right thing</p>
+<p align="left">✨ Creating bugs since 2018<br>📚 I'm currently studying Computer Science<br>🎯 Goals: Become a Full Stack / Software Engineer<br>🎲 Fun fact: I once fixed a problem by accidentally breaking the right thing</p>
 
 ###
 
